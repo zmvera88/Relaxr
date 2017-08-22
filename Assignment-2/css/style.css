@@ -1,0 +1,128 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @GA in NYC
+*/
+
+
+/******************************************
+/* SETUP
+/*******************************************/
+* {
+  box-sizing: border-box; /* allows us to tell the browser how to measure our elements.  Now the width property includes content, padding, and border, instead of just the content*/
+  font-family:"Roboto",helvetica;
+ 
+}
+a {
+	color: white;
+}
+
+h3 {
+	font-weight:700;
+}
+
+header {
+	height: 300px;
+	border: 2px solid black;
+	background-image:url('../images/bg.jpg');
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+section, ul, header {
+	display: flex;
+}
+
+header {
+	flex-direction:column;
+	padding:10px;
+}
+
+body {
+	 background: white;
+
+}
+p {
+	color: black;
+	font-weight:300;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+	width: 400px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.logo {
+  font-size: 40px;
+  font-weight: 900;
+}
+
+header h1 {
+	flex: 1;
+	color: white;
+}
+nav {
+	flex: 1;
+}
+section div {
+  /* width: 100px; inclusive of padding and border when using box-sizing: border-box */
+  flex:1;
+  padding: 10px;
+  text-align: center;
+  /*margin:20px;*/
+}
+
+header div {
+	color:#5fdea1;
+}
+
+aside {
+	display: flex;
+	justify-content:center;
+
+}
+
+.button {
+	color:white;
+	background:blue;
+	padding: 10px;
+}
+#primary {
+	flex: 2;
+}
+
+header nav ul {
+	list-style-type: none;
+	align-items: property;
+}
+
+footer {
+	background: rgb(242,244,246);
+	display: flex;
+	justify-content: center;
+}
+
+footer div {
+	text-align:center;
+}
+
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/

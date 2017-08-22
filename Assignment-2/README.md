@@ -55,7 +55,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ![Relaxr Landing Page](images/relaxr_landing.png)
 
-*Note: For a view of the full page, see the [jpg](images/relaxr_landing.png) provided in the deliverable. Don't be alarmed if your font sizes don't perfectly match what you see in the jpg - trust in the design file!*
+*Note: For a view of the full page, see the [jpg](images/relaxr_landing.jpg) provided in the deliverable. Don't be alarmed if your font sizes don't perfectly match what you see in the jpg - trust in the design file!*
 
 <br>
 
